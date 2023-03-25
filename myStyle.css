@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(32, 38, 48);
+    color: rgb(110, 237, 224);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 4rem;
+}
+button {
+    min-height: 2rem;
+    border-radius: 1rem;
+    border-style: none;
+    border: 0.1rem solid rgb(161, 28, 161);
+    background-color: rgb(61, 42, 62);
+    color: inherit;
+    font-size: medium;
+    padding: 0.4rem;
+}
