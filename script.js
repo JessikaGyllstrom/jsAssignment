@@ -6,7 +6,7 @@ const checkbox = document.getElementById("terms");
 function validate() {
 form.addEventListener('submit', (event) => {
     //set boolean 
-    let valid = false;
+    let valid = new Boolean(false);
     //stop form submission
     event.preventDefault();
     console.log("submitted");
